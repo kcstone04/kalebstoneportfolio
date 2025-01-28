@@ -1,0 +1,49 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    position: relative;
+    min-height: 100%;
+}
+            
+.footer {
+    position: absolute; 
+    bottom:0;
+    width: 100%;
+}
+
+.site-block {
+    background: #00833c;
+    padding: 16px;
+    color: antiquewhite;
+    border: 7px solid black;
+    width: 80%;
+    margin: 5% auto;
+}
+            
+.site-block h2 {
+    color: antiquewhite;
+    font-size: 3em;
+    font-family: 'georiga', serif;
+}
+            
+.site-block p {
+    font-size: 1.5em;
+    font-family: 'georgia', serif;
+}
+
+.site-block li {
+    font-size: 1.5em;
+    font-family: 'georgia', serif;
+}
+
+.kaleb-pic {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w3-bar {
+    font-family: 'georgia', serif;
+}
